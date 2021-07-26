@@ -43,6 +43,11 @@ Kiriki is an addictive and fun dice game, designed to be played by as
 many as six players. Participants have to collect points by rolling
 five dice for up to three times per single turn.
 
+%description -l pl.UTF-8
+Kiriki to wciągająca i zabawna gra w kości, przeznaczona do gry przez
+do sześciu graczy. Grający zbierają punkty rzucając pięcioma kostkami
+do trzech razy w ciągu jednej kolejki.
+
 %prep
 %setup -q -n %{kaname}-%{version}
 
